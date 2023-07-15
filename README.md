@@ -53,7 +53,7 @@ The output will display the performance metrics for each algorithm and the best 
 
 ## Results
 
-For a detailed analysis and discussion of our results, please refer to our research paper, [Machine Learning Algorithms in network intrusion detection system (IDS)](https://www.researchgate.net/publication/359504591_Machine_Learning_Algorithms_in_network_intrusion_detection_system_IDS).
+For a detailed analysis and discussion of our results, please refer to our poster presentation, [Machine Learning Algorithms in network intrusion detection system (IDS)](https://www.researchgate.net/publication/359504591_Machine_Learning_Algorithms_in_network_intrusion_detection_system_IDS).
 
 According to the results, the Random Forest Algorithm had higher performance than J48. It had better accuracy, detection rate, lower False Alarm Rate, and better Matthews Correlation Coefficient (MCC), indicating its superiority for binary classifications in this particular use-case.
 
